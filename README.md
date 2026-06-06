@@ -152,6 +152,6 @@ The system is not intended to replace doctors. Instead, it helps healthcare prof
 
 👩‍💻 Author
 
-Karthika D
+D Karthika Chaitrika
 
 ---
